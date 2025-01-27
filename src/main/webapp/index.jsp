@@ -166,8 +166,8 @@
 </head>
 <body>
     <header>
-        <h1>Sathiya sri - DevOps Engineer</h1>
-        <p>Building Automation & Scalable Solutions for Modern Applications</p>
+        <h1>Sathiya Sri - DevOps Student</h1>
+        <p>Automate maven build and artifact management using nexus and jenkins.</p>
         <nav>
             <a href="#about">About</a>
             <a href="#skills">Skills</a>
@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm sathiya sri, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>Hello! I'm sathiya Sri, I am a passionate and dedicated Computer Applications student with a strong interest in front-end development and DevOps.</p>
     </section>
 
     <section id="skills" class="skills">
@@ -201,11 +201,11 @@
         </div>
         <div class="project">
             <h3>Jenkins CI/CD Pipeline</h3>
-            <p>Created a robust CI/CD pipeline integrating SonarQube, Trivy, and Docker for secure and quality-focused deployments.</p>
+            <p>Jenkins pipeline to deploy a web application and implement CI/CD using webhooks.</p>
         </div>
         <div class="project">
-            <h3>AWS Infrastructure Automation</h3>
-            <p>Automated EC2 instance provisioning and application deployment using Terraform and CFT</p>
+            <h3>Docker Swarm</h3>
+            <p>Deploy a scalable web service using Docker swarm.</p>
         </div>
     </section>
 
